@@ -8,7 +8,7 @@ var UnminedMapProperties = {
     minRegionZ: -7,
     maxRegionX: 1,
     maxRegionZ: 6,
-    worldName: "PlanetSpero",
+    worldName: "Planet Primus",
     background: "",
     markers: new Array(),
     enableGrid: true,
